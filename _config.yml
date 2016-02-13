@@ -1,0 +1,14 @@
+layout_spectrum: 0.3219833
+typography_spectrum: 0.1105137
+color:
+  saturation: 0.8337094
+  lightness: 0.3422939
+  brandStrength: 0.7122619
+  brandColors:
+    - '#16265D'
+    - '#6F6D64'
+    - '#FFFFFC'
+    - '#5D87E1'
+    - '#BEBEB2'
+  rhythmicContrast: 0.09675627
+name: Nelson
